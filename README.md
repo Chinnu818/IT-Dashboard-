@@ -24,18 +24,5 @@ A fully responsive and modern IT Dashboard built with React.js and Tailwind CSS,
 - **Framer Motion**
 - **React CountUp**
 
----
-
-## 📸 Screenshots
-
-### 🖥️ Hero Section
-![Hero Screenshot](./screenshots/hero.png)
-
-### 🛠️ Services Section
-![Services Screenshot](./screenshots/services.png)
-
-### ✉️ Contact Section
-![Contact Screenshot](./screenshots/contact.png)
-
 
 
